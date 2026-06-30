@@ -1,6 +1,6 @@
 ---
 word_count: 669
-duration: 6min
+duration: 6m
 ---
 
 # Beauty Is In The Eye Of The Beholder

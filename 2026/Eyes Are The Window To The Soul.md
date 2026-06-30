@@ -1,6 +1,6 @@
 ---
 word_count: 682
-length: 6min
+duration: 6m
 ---
 
 # Eyes Are The Window To The Soul
