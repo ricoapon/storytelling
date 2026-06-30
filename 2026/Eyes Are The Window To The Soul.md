@@ -1,3 +1,8 @@
+---
+word_count: 682
+length: 6min
+---
+
 # Eyes Are The Window To The Soul
 
 This is an older story. It was from a time that I was still studying in university, so it is at least 10 years ago. I was doing a minor at the time called the educational minor. It is one semester in which you study to become a high school teacher. Part of this minor is a class that didn't have a specific topic, but it was more general about reflecting on your lessons and talking about situations that happened in the classroom. Part of this class was to give one of your prepared lessons so you could get feedback from your classmates. But there was a twist. The teacher would assign some classmates with some role to play in the practice lesson, like the annoying kid that keeps asking questions or a shy kid that would talk way too soft to be heard.
